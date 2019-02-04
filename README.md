@@ -5,10 +5,10 @@ The environment is provided by Udacity and it is made from the Unity ML agent (h
 There are 2 agents in this environment. Each agent is a tennis racket that moves horizontally and jumps vertically.
 - The environment returns 24 floats as the states for an agent in each step so the environment returns 2 X 24 floats.
 - There are two actions available to an agent and the actions are continuous between -1 and 1.
-- A reward of +0.1 is provided for each step that an agent hits the ball over the net.
+- A reward of +0.1 is provided to an agent for each step if the agent hits the ball over the net.
 - If an agent lets a ball hit the ground or hits the ball out of bounds, it receives a reward of -0.01
    
-The environment is considered as solved if your agents get an average score of +0.5 over 100 consecutive episodes, after taking the maximum over both agents.
+The environment is considered as solved if your agents get an average score of +0.5 over 100 consecutive episodes, after taking the maximum over both agents each episode.
 
 ![the environment](environment.png)
   
