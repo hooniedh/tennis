@@ -9,6 +9,8 @@ There are 2 agents in this environment. Each agent is a tennis racket that moves
 - If an agent lets a ball hit the ground or hits the ball out of bounds, it receives a reward of -0.01
    
 The environment is considered as solved if your agents get an average score of +0.5 over 100 consecutive episodes, after taking the maximum over both agents.
+
+![the environment](rewards.png)
   
 ### getting started
 This project depends on Pytorch and Unity ML agents.
