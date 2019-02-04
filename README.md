@@ -25,7 +25,7 @@ A train can be started by running training.py. The path and the executable of th
 python training.py train Tennis_Windows_x86_64/Tennis.exe
 ```
 
-The agents can be test after finishing a training session with
+The agents can be tested after finishing a training session with
 
 ```
 python training.py test Tennis_Windows_x86_64/Tennis.exe
