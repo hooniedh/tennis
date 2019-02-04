@@ -10,7 +10,7 @@ There are 2 agents in this environment. Each agent is a tennis racket that moves
    
 The environment is considered as solved if your agents get an average score of +0.5 over 100 consecutive episodes, after taking the maximum over both agents.
 
-![the environment](rewards.png)
+![the environment](environment.png)
   
 ### getting started
 This project depends on Pytorch and Unity ML agents.
