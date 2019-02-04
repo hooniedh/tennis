@@ -2,7 +2,7 @@
 This is my solution to Udacity reinforcement learning **collaboration and competition** project. DDPG(Deep Deterministic Policy Gradient) networks are used.
 ### environment
 The environment is provided by Udacity and it is made from the Unity ML agent (https://github.com/Unity-Technologies/ml-agents).
-There are 2 agents in this environment. Each agent is a tennis racket than moves horizontally and jumps vertically.
+There are 2 agents in this environment. Each agent is a tennis racket that moves horizontally and jumps vertically.
 - The environment returns 24 floats as the states for an agent in each step so the environment returns 2 X 24 floats.
 - There are two actions available to an agent and the actions are continuous between -1 and 1.
 - A reward of +0.1 is provided for each step that an agent hits the ball over the net.
