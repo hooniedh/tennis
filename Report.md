@@ -49,7 +49,7 @@ The agent was able to solve the environment  at the episode 1591.
 ![plot of the total rewards per episode](rewards.png)
 
 ### agents in the testing environment after finishing the training
-![agents in the testing environment after finishing the training](rewards.png)
+![agents in the testing environment after finishing the training](trained_agents.gif)
 
 ### future idea
 I like to try few other algorithms to solve continuous control problems.
